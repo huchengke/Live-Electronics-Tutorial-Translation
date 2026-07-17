@@ -4,7 +4,7 @@
 
 本仓库为Live-Electronics Tutorial的中文翻译企划。
 
-本教程是由Alexantros Torres Porres攥写的一款教程，与Puredata的扩展库ELSE相配合，体系庞大、内容海量，基本解释了Pd的一切。
+本教程是由Alexantros Torres Porres编写的，内置在ELSE中的一款教程，体系庞大、内容海量，基本解释了Pd的一切。
 
 本翻译基于Plugdata，与Pure Data原生环境有所差异，译文亦会针对此作出说明。
 
