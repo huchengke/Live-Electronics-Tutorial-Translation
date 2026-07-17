@@ -6,8 +6,10 @@
 本翻译基于Plugdata环境，与Pure Data环境有所差异，译文亦会针对此处作出说明。
 #### 原仓库
 
-[Plugdata](https://github.com/plugdata-team/plugdata)\n
-[ELSE](https://github.com/porres/pd-else)\n
+[Plugdata](https://github.com/plugdata-team/plugdata)
+
+[ELSE](https://github.com/porres/pd-else)
+
 [Live-Electronics Tutorial](https://github.com/porres/pd-else/tree/master/Documentation/Live-Electronics-Tutorial)
 
 #### 使用说明
@@ -18,8 +20,6 @@
 Plugdata官网：https://plugdata.org/index.html
 
 2.  本教程翻译难度较大，AliceCollection不保证随时更新至最新版本。为了适应Plugdata与Pure Data的环境差异，我将在翻译的过程中加入注释，更改部分文字表达。现版本更新时间：2026.7.17
-
-3.  xxxx
 
 ####关于授权
 
