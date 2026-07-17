@@ -6,8 +6,8 @@
 本翻译基于Plugdata环境，与Pure Data环境有所差异，译文亦会针对此处作出说明。
 #### 原仓库
 
-[Plugdata](https://github.com/plugdata-team/plugdata)
-[ELSE](https://github.com/porres/pd-else)
+[Plugdata](https://github.com/plugdata-team/plugdata)\n
+[ELSE](https://github.com/porres/pd-else)\n
 [Live-Electronics Tutorial](https://github.com/porres/pd-else/tree/master/Documentation/Live-Electronics-Tutorial)
 
 #### 使用说明
