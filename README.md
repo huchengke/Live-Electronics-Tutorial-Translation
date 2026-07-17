@@ -21,7 +21,7 @@
 1.  本教程所有内容均基于Live-Electronics Tutorial和Pure Data、Plugdata，使用.pd格式分发，你需要使用Pure Data环境以打开这些文件。
 (download Pd from: http://msp.ucsd.edu/software.html)
 
-    Plugdata官网：https://plugdata.org/index.html(内置Pure Data Vanilla与ELSE、Cyclone库，本教程基于此软件进行一定表述上的更改)
+    Plugdata官网：https://plugdata.org/index.html (内置Pure Data Vanilla与ELSE、Cyclone库，本教程基于此软件进行一定表述上的更改)
 
 2.  本教程翻译难度较大，AliceCollection不保证随时更新至最新版本。为了适应Plugdata与Pure Data的环境差异，我将在翻译的过程中加入注释，更改部分文字表达。
     版本更新时间：2026.7.17
