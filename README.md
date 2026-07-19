@@ -10,6 +10,8 @@
 
 #### 原仓库
 
+[Pure Data](https://github.com/pure-data)
+
 [Plugdata](https://github.com/plugdata-team/plugdata)
 
 [ELSE](https://github.com/porres/pd-else)
