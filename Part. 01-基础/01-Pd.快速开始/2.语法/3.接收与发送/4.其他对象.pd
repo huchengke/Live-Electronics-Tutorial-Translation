@@ -18,10 +18,10 @@
 #X msg 397 150 send x;
 #X obj 71 215 float 10.5;
 #X floatatom 443 180 5 0 0 0 - - - 0;
-#X text 86 425 *这里有一个容易让人绕弯的点，[send y]信息的逻辑是： 把出口连接的对象中的值发送到名为y的对象。，也就是将 【[value x]发送到y//, f 46;
 #X text 86 35 [float]、[int]、[value] 和 [list store]对象也可以通过发送（send）消息与接收 （receive）对象进行通信。//;
 #X text 86 77 此外，[value]还可以从[send]对象，或者其他对象的发送消息中接收数值。// 如下例，左上角和右上角的send x都可以改变[value x]的值//;
 #X text 86 485 *你可能会问，这么一个对象设计出来是干什么用的呢？ 欲知后事如何，请听下回分解//, f 46;
+#X text 86 425 *这里有一个容易让人绕弯的点，send y信息的逻辑是： 把出口连接的对象中的值发送到名为y的对象。，也就是将 【[value x]发送到y，对x不做任何处理//, f 46;
 #X connect 0 0 17 0;
 #X connect 1 0 2 0;
 #X connect 3 0 6 0;
