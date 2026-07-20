@@ -1,0 +1,13 @@
+#N canvas 858 50 495 450 12;
+#X msg 106 100 1st message \, second \; test 1 2 3 \, testing \; midinote 66;
+#X obj 277 116 r test;
+#X obj 106 159 print message-box;
+#X obj 277 149 print test-message;
+#X obj 194 203 r midinote;
+#X obj 194 236 print midinote;
+#X text 69 33 为了教学演示，我们现在把逗号和分号结合起来使用，好让 大家能清楚地看到具体会发生什么。//, f 48;
+#X obj 69 283 note 340 15 微软雅黑 empty 0 55 55 55 0 228 228 228 0 0 在分号之前，消息会首先从对象的出口发送出去（在上面那个例子中，我们有两个由逗号隔开的消息，发送到了[print message
+-box]）。一旦出现分号，之后消息就只能作为发送指令来执行；此时，你只能通过添加新的分号来切换到下一个发送目标，而不会再有任何消息从出口输出。在这里，逗号的作用是将消息拆分，并发送到分号后那个符号所定义的接收地址中。因此，我们在 [r test] 中收到了 “1 2 3”和 “testing”！;
+#X connect 0 0 2 0;
+#X connect 1 0 3 0;
+#X connect 4 0 5 0;
